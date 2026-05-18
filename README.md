@@ -48,6 +48,10 @@ Tests run: 58, Failures: 0, Errors: 0, Skipped: 0
 BUILD SUCCESS
 ```
 
+Evidência visual do relatório JaCoCo:
+
+![Relatório de cobertura JaCoCo](docs/jacoco-coverage.png)
+
 ## Exercício 1 - Triângulo
 
 Classe implementada: `com.example.tdd.triangle.Triangle`
